@@ -26,4 +26,4 @@ public class CoercaoVsCasting {
         System.out.println("totalCompra = " + totalCompra);
         System.out.println("mediaParaAprovacao = " + mediaParaAprovacao);
     }
-}   
+}
