@@ -1,5 +1,3 @@
-package aula02;
-
 import java.math.*;
 import java.util.*;
 
