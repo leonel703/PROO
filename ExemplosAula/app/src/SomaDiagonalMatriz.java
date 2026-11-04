@@ -11,7 +11,7 @@ public class SomaDiagonalMatriz {
         for (int i = 0; i < matriz.length; i++) {
             for (int j = 0; j < matriz[i].length; j++) {
                 if (i == j) {
-                    soma = matriz[i][j] + soma;
+                    soma = matriz[i][j+1] + soma;
                 }
             }
         }
